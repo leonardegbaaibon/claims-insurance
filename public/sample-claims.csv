@@ -1,0 +1,21 @@
+ClaimID,PolicyholderName,PolicyNumber,ClaimType,ClaimAmount,IncidentDate,Description,PolicyholderEmail,PhoneNumber,Address,VehicleInfo,PropertyInfo
+CLM-2024-001,John Smith,POL-2024-001,Auto Collision,2500,2024-01-15,Rear-end collision on Highway 101,john.smith@email.com,555-0101,123 Main St, Anytown CA,2020 Honda Civic - VIN:1HGBH41JXMN109186,
+CLM-2024-002,Sarah Johnson,POL-2024-002,Property Damage,1800,2024-01-18,Water damage from burst pipe,sarah.j@email.com,555-0102,456 Oak Ave, Somewhere NY,,123 Oak Ave - Single family home
+CLM-2024-003,Michael Brown,POL-2024-003,Medical,3200,2024-01-20,Emergency room visit for chest pain,mike.brown@email.com,555-0103,789 Pine Rd, Elsewhere TX,,
+CLM-2024-004,Emily Davis,POL-2024-004,Auto Theft,15000,2024-01-22,Vehicle stolen from parking garage,emily.davis@email.com,555-0104,321 Elm St, Nowhere FL,2019 Toyota Camry - VIN:4T1B11HK5KU123456,
+CLM-2024-005,David Wilson,POL-2024-005,Property Damage,3500,2024-01-25,Fire damage to kitchen,david.wilson@email.com,555-0105,654 Maple Dr, Anywhere OH,,456 Maple Dr - Townhouse
+CLM-2024-006,Lisa Anderson,POL-2024-006,Auto Collision,4200,2024-01-28,Side impact collision at intersection,lisa.anderson@email.com,555-0106,987 Cedar Ln, Someplace WA,2018 Ford Focus - VIN:1FADP3K20JL123456,
+CLM-2024-007,Robert Taylor,POL-2024-007,Medical,1800,2024-01-30,Physical therapy for back injury,robert.taylor@email.com,555-0107,147 Birch Way, Elsewhere CO,,
+CLM-2024-008,Jennifer Martinez,POL-2024-008,Property Damage,2800,2024-02-01,Storm damage to roof,jennifer.m@email.com,555-0108,258 Spruce Ct, Nowhere AZ,,789 Spruce Ct - Condo
+CLM-2024-009,Christopher Lee,POL-2024-009,Auto Collision,3100,2024-02-03,Multi-vehicle pileup on freeway,chris.lee@email.com,555-0109,369 Willow St, Anywhere NC,2021 Nissan Altima - VIN:1N4BL4CV8NC123456,
+CLM-2024-010,Amanda Garcia,POL-2024-010,Medical,4500,2024-02-05,Surgery for broken leg,amanda.garcia@email.com,555-0110,741 Aspen Ave, Someplace MI,,
+CLM-2024-011,James Rodriguez,POL-2024-011,Property Damage,1900,2024-02-07,Vandalism to garage door,james.rodriguez@email.com,555-0111,852 Poplar Rd, Elsewhere PA,,147 Poplar Rd - Duplex
+CLM-2024-012,Michelle White,POL-2024-012,Auto Collision,2700,2024-02-09,Backing into pole in parking lot,michelle.white@email.com,555-0112,963 Sycamore Ln, Nowhere OR,2017 Chevrolet Malibu - VIN:1G1ZD5ST0HF123456,
+CLM-2024-013,Thomas Harris,POL-2024-013,Medical,2200,2024-02-11,Ambulance and emergency care,thomas.harris@email.com,555-0113,159 Magnolia Dr, Anywhere SC,,
+CLM-2024-014,Jessica Clark,POL-2024-014,Property Damage,4100,2024-02-13,Flood damage to basement,jessica.clark@email.com,555-0114,357 Redwood Way, Someplace VT,,258 Redwood Way - Split-level
+CLM-2024-015,Daniel Lewis,POL-2024-015,Auto Collision,3300,2024-02-15,Head-on collision on rural road,daniel.lewis@email.com,555-0115,486 Sequoia Ct, Elsewhere KY,2020 Hyundai Sonata - VIN:5NPE34AF0LH123456,
+CLM-2024-016,Ashley Hall,POL-2024-016,Medical,2800,2024-02-17,Dental emergency treatment,ashley.hall@email.com,555-0116,753 Cypress St, Nowhere ME,,
+CLM-2024-017,Kevin Young,POL-2024-017,Property Damage,2400,2024-02-19,Hail damage to siding and windows,kevin.young@email.com,555-0117,951 Hemlock Ave, Anywhere AL,,369 Hemlock Ave - Ranch
+CLM-2024-018,Rachel King,POL-2024-018,Auto Collision,3600,2024-02-21,Rollover accident on mountain road,rachel.king@email.com,555-0118,264 Juniper Rd, Someplace MT,2019 Subaru Outback - VIN:4S4BSANC0K3123456,
+CLM-2024-019,Steven Wright,POL-2024-019,Medical,3900,2024-02-23,Cardiac stress test and follow-up,steven.wright@email.com,555-0119,837 Fir Ln, Elsewhere ID,,
+CLM-2024-020,Nicole Green,POL-2024-020,Property Damage,2200,2024-02-25,Tree limb damage to fence,nicole.green@email.com,555-0120,148 Spruce Way, Nowhere WY,,741 Spruce Way - Colonial
