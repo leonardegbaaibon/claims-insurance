@@ -258,6 +258,9 @@ function BulkClaimsSubmission() {
                 <p className="text-sm text-gray-600 mt-1">
                   {claims.length} claims • Total: ${getTotalAmount().toLocaleString()}
                 </p>
+                <p className="text-sm text-gray-500">
+                  Types: {Object.entries(getClaimTypeBreakdown()).map(([type, count]) => `${type}: ${count}`).join(', ')}
+                </p>
               </div>
               <div className="flex space-x-3">
                 <button
